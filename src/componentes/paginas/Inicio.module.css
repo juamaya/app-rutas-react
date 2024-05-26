@@ -1,0 +1,15 @@
+ 
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.caracteristicas{
+    color: white;
+    background-color: blue;
+    padding: 2rem;
+    border-radius: 1rem;
+    text-align: start;
+
+}
+ 
